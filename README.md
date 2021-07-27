@@ -1,5 +1,5 @@
 # MFFDNet_release
-Multi-Stage Feature Dense Fusion Network (MFDFNet) for Motion Deblurring
+Multi-Stage Feature-Fusion Dense Network (MFFDNet) for Motion Deblurring
 
 The pre-trained models of MFDFNet trained with GoPro: https://pan.baidu.com/s/1-GKNgGCoOqQznnctnqG1RQ password: ulgw
 
